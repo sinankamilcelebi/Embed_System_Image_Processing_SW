@@ -9,7 +9,7 @@
 ## __Home Page:__ 
 
 <p align = "center">
-<img src = "Home Page.jpg" alt = "Home Page" title = "Home Page" width = "450" height = "350" />
+<img src = "Home Page.jpg" alt = "Home Page" title = "Home Page" width = "450" height = "400" />
 </p>
 
 ## __Method 13 - I:__ 
@@ -21,5 +21,5 @@
 ## __Method 13 - II:__ 
 
 <p align = "center">
-<img src = "Method 13 - II.jpg" alt = "Method 13 - II" title = "Method 13 - II" width = "450" height = "350" />
+<img src = "Method 13 - II.jpg" alt = "Method 13 - II" title = "Method 13 - II" width = "450" height = "400" />
 </p>
