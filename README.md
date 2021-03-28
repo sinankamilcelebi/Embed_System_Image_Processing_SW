@@ -3,7 +3,6 @@
 * @file     : PiImageProcessingApp.py
 * @author   : Sinan KAMILCELEBI
 * @version  : V1.0.0
-* @date     : 01-September-2019 / 30-November-2019 
 * @brief    : KOU Embed System Image Processing SW Main Program.
 
 ## __Home Page:__ 
